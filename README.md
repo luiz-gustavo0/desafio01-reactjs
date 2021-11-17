@@ -1,6 +1,6 @@
 
 
-# Desafio 01 do Bootcamp Ignite da Rocketseat
+# Desafio 01 do Ignite, trilha ReactJS
 
 ##  Sobre o desafio
 
